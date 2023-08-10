@@ -9,7 +9,6 @@ function Footer() {
 <a href="https://github.com/JohnnyQ40?tab=repositories" className="footer-link">
     <i className="fab fa-linkedin"></i>
 </a>
-        <a href="third_platform_link">Third Platform</a>
         </footer>
     );
 }
