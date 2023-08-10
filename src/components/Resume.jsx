@@ -1,5 +1,9 @@
 const Resume = () => {
-    return;
+    return (
+        <div>
+            Resume in Development.
+        </div>
+    );
 };
 
 export default Resume;

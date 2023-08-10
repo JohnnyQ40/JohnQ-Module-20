@@ -3,7 +3,7 @@ import React from 'react';
 function AboutMe() {
     return (
         <section>
-            <img src="" alt="Developer" />
+            <img src="" alt="About Me" />
             <p>As a motivated Student striving for excellence in the field of web development, I am currently in the process of obtaining my certification in Full Stack Web Development.
             Throughout my learning journey, I have acquired an extensive knowledge base in technologies predominantly focusing on the MERN stack - MongoDB, Express.js, React.js, and Node.js.
             However, my technical expertise is not limited to these areas; I have a profound understanding of additional tools and languages such as Bootstrap, MySQL, NoSQL, and Progressive Web Applications (PWAs).
